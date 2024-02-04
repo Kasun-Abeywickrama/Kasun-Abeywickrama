@@ -16,7 +16,7 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-abeywickrama-721676249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kasun-Abeywickrama-721676249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011203440936&mibextid=ZbWKwL) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
@@ -69,7 +69,7 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kasun-abeywickrama&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kasun-Abeywickrama&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
