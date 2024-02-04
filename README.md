@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-I'm currently studying for a BSc in Computer Science.
+# Hi there! 👋
 
+I'm Kasun Abeywickrama, a passionate computer science student currently pursuing a BSc (Hons) in Computer Science at NSBM Green University. Here's a snapshot of who I am:
+
+- 🔭 I’m currently working on honing my coding skills through my university projects.
+- 🌱 I’m currently learning new technologies and languages like Python, JavaScript, and exploring web development.
+- 👯 I’m looking to collaborate on projects related to web designing, web development, mobile application development, and desktop applications.
+- 🤔 I’m looking for help with understanding algorithms and data structures, seeking mentorship from experienced developers.
+- 💬 Ask me about anything related to computer science, coding, or university life!
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/kasunabeywickrama/) or drop me an email at kasun@example.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm an avid photography enthusiast outside of coding!
+
+Feel free to explore my GitHub repositories to see my coding journey unfold. Let's connect and learn together! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kasun Thiwanka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kasun Abeywickrama) 
