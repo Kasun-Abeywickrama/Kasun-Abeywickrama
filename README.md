@@ -76,11 +76,11 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
+<div>
+    ![](https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&theme=city_light&hide_border=true)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ### ✍️ Random Dev Quote
 
