@@ -76,11 +76,9 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 
 # 📊 GitHub Stats:
 
-<div>
-    ![](https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&theme=city_light&hide_border=true)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&theme=city_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Abeywickrama&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
@@ -109,5 +107,12 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
     <br>Sampath bank
     <br>Horana
 
+
+<a href="https://github.com/kasun-abeywickrama/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kasun-abeywickrama" />
+</a>
+<a href="https://github.com/kasun-abeywickrama/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasun-abeywickrama&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
