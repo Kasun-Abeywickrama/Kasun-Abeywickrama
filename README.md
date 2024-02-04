@@ -6,7 +6,7 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 
 Here's a snapshot of who I am:
 - 🔭 I'm currently working on my <b>university projects.</b>
-- 🌱 I’m currently learning <b>RactJS, Django and Flutter</b>
+- 🌱 I’m currently learning <b>ReactJS, Django and Flutter</b>
 - 👯 I’m looking to collaborate on <b>web development and mobile application development</b>
 - 💬 Ask me about <b>programming, Designing or university life!</b>
 - 📫 How to reach me: kasunthiwanka158@gmail.com
