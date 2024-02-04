@@ -107,12 +107,4 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
     <br>Sampath bank
     <br>Horana
 
-
-<a href="https://github.com/kasun-abeywickrama/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kasun-abeywickrama" />
-</a>
-<a href="https://github.com/kasun-abeywickrama/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasun-abeywickrama&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
