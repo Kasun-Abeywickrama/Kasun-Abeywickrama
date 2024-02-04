@@ -75,13 +75,9 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 
 
 # 📊 GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&show_icons=true&locale=en" alt="Kasun-Abeywickrama" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&" alt="Kasun-Abeywickrama" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact" alt="Kasun-Abeywickrama" />
-
+![](https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&show_icons=true&locale=en)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact)
 
 ### ✍️ Random Dev Quote
 
