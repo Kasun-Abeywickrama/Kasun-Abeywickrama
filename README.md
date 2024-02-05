@@ -23,6 +23,22 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com) 
 
+## 🚀 My Projects
+
+### 1. Mobile Planet - Online Phone Shop Platform
+- **Description:** An online platform for a mobile phone shop with user-friendly features and an admin dashboard for product and inventory management.
+- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP
+- **Deployment:** [Mobile Planet](http://mobileplanet.lovestoblog.com)
+- **Collaborators:** Kasun Thiwanka, Dewmini Navodya, Hansa Sithruwan
+
+### 2. MindCare: Depression Management System
+- **Mobile App:** [MindCare Mobile](https://rb.gy/s877g3)
+- **Web App (Admin & Counselors):** [MindCare Web](https://tsdmindcare.netlify.app/)
+- **Overview:** A comprehensive system addressing mental health challenges, particularly depression, with early detection and intervention.
+- **Tech Stack:** Flutter, ReactJS, Django, MySQL, Figma
+- **Collaborators:** A.H.K. Thiwanka, K.D.N. Mandis, A.A.H. Sithuruwan, and more.
+
+Feel free to explore these projects and contribute to our journey in technology and mental health! 🌐✨
 
 
 # 💻 Tech Stack:
