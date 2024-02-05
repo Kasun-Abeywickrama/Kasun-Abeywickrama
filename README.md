@@ -108,15 +108,11 @@ Feel free to explore these projects and contribute to our journey in technology 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 --- 
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=Kasun-Abeywickrama&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 ## 💰 You can help me by Donating
-
-* ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)<br>
-(https://paypal.me/)
-
-* <h3>Bank Details</h3>
+### <h3>Bank Details
     105757848011
     <br>A. H. K. Thiwanka 
     <br>Sampath bank
