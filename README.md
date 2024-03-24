@@ -113,12 +113,7 @@ Feel free to explore these projects and contribute to our journey in technology 
 -->
 ## 💰 You can help me by Donating
 ### <h3>Bank Details
-```bash
-105757848011
-A. H. K. Thiwanka 
-Sampath bank
-Horana
-```
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
