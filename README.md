@@ -12,9 +12,6 @@ Here's a snapshot of who I am
 - 📫 How to reach me: kasunthiwanka158@gmail.com
 - ⚡ Fun fact: I'm an avid <b>Robotics enthusiast outside of coding!</b>
 
-Feel free to explore my GitHub repositories to see my coding journey unfold. Let's connect and learn together! 🚀
-
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kasun-Abeywickrama-721676249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Dev-Labs)
