@@ -4,18 +4,18 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="300" style="border: 1px solid #ccc; border-radius: 15px; margin-top: 10px;">
 
-Here's a snapshot of who I am:
+Here's a snapshot of who I am
 - 🔭 I'm currently working on my <b>university projects.</b>
-- 🌱 I’m currently learning <b>ReactJS, Django and Flutter</b>
+- 🌱 I’m currently learning <b>ReactJS, NodeJS and Flutter</b>
 - 👯 I’m looking to collaborate on <b>web development and mobile application development</b>
 - 💬 Ask me about <b>programming, Designing or university life!</b>
 - 📫 How to reach me: kasunthiwanka158@gmail.com
-- ⚡ Fun fact: I'm an avid <b>photography enthusiast outside of coding!</b>
+- ⚡ Fun fact: I'm an avid <b>Robotics enthusiast outside of coding!</b>
 
 Feel free to explore my GitHub repositories to see my coding journey unfold. Let's connect and learn together! 🚀
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kasun-Abeywickrama-721676249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Dev-Labs)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011203440936&mibextid=ZbWKwL) 
@@ -25,23 +25,47 @@ Feel free to explore my GitHub repositories to see my coding journey unfold. Let
 
 ## 🚀 My Projects
 
-### 1. Mobile Planet - Online Phone Shop Platform
-- **Description:** An online platform for a mobile phone shop with user-friendly features and an admin dashboard for product and inventory management.
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP
-- **Deployment:** [Mobile Planet](http://mobileplanet.lovestoblog.com)
-- **Collaborators:** Kasun Thiwanka, Dewmini Navodya, Hansa Sithruwan
+### 1. Lansuwa.lk - Auction Management System
+- **Description:** A feature-rich platform enabling seamless interactions between sellers and buyers with real-time bidding functionality and role-based authentication.
+- **Tech Stack:** React.js, Tailwind CSS, ASP.NET Web API, SQL Server 
+- **Key Features:**  
+  - **User Management:** Role-based authentication with OTP email verification.  
+  - **Bidding System:** Real-time auction updates and notifications.  
+  - **Category & Product Management:** Manage auction categories and items.  
+  - **Payment Module:** Integrated PayPal checkout with transaction tracking.
+- **Frontend Repository:** [Lansuwa.lk Frontend](https://github.com/Dewmini-Mandis/auction-management-system-frontend)  
+- **Backend Repository:** [Lansuwa.lk Backend](https://github.com/Kasun-Abeywickrama/auction-management-system-backend) 
 
-### 2. MindCare: Depression Management System
+### 2. Elite Elegance - E-commerce Platform for Furniture
+- **Description:** Developed a secure and user-friendly e-commerce platform specializing in premium furniture, featuring robust user authentication, seamless navigation, and an intuitive admin panel for efficient management.
+- **Tech Stack:** J2EE, Servlets, JSP, HTML, CSS, JavaScript, Bootstrap, MySQL, MVC Architecture
+- **Key Features:**  
+  - **User Authentication & Security:** Secure login, registration, and session management.  
+  - **Comprehensive Navigation:** Home, Categories, Contact Us, About Us, Store Location, Cart, and Sidebar menus.  
+  - **Product Management:** Detailed category pages, secure checkout, and payment integration.  
+  - **Admin Panel:** Tools to manage orders, products, inventory, and user accounts.
+- **Repository:** [DEA-Project](https://github.com/Kasun-Abeywickrama/DEA-Project.git)  
+
+### 3. MindCare - Student Mental Health Support System
 - **Mobile App:** [MindCare Mobile](https://rb.gy/s877g3)
 - **Web App (Admin & Counselors):** [MindCare Web](https://tsdmindcare.netlify.app/)
 - **Overview:** A comprehensive system addressing mental health challenges, particularly depression, with early detection and intervention.
 - **Tech Stack:** Flutter, ReactJS, Django, MySQL, Figma
 - **Collaborators:** A.H.K. Thiwanka, K.D.N. Mandis, A.A.H. Sithuruwan, and more.
+- **Frontend Repository (Web Application):** [Lansuwa.lk Frontend](https://github.com/Dewmini-Mandis/auction-management-system-frontend)  
+- **Frontend Repository (Mobile Application):** [TSD_Project_Front_End](https://github.com/Kasun-Abeywickrama/TSD_Project_Front_End.git)  
+- **Backend Repository:** [TSD_Project_Back_End](https://github.com/Kasun-Abeywickrama/TSD_Project_Back_End.git) 
 
-Feel free to explore these projects and contribute to our journey in technology and mental health! 🌐✨
+
+### 4. Mobile Planet - Online Phone Shop Platform
+- **Description:** An online platform for a mobile phone shop with user-friendly features and an admin dashboard for product and inventory management.
+- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP
+- **Deployment:** [Mobile Planet](http://mobileplanet.lovestoblog.com)
+- **Repository:** [Mobile-Planet](https://github.com/Kasun-Abeywickrama/Mobile-Planet.git)
+- **Collaborators:** Kasun Thiwanka, Dewmini Navodya, Hansa Sithruwan
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -54,7 +78,7 @@ Feel free to explore these projects and contribute to our journey in technology 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+<!--![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -66,8 +90,8 @@ Feel free to explore these projects and contribute to our journey in technology 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
+<!--![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) -->
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
@@ -90,7 +114,7 @@ Feel free to explore these projects and contribute to our journey in technology 
 ---
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact)
@@ -110,10 +134,10 @@ Feel free to explore these projects and contribute to our journey in technology 
 --- 
 <!--
 [![](https://visitcount.itsvg.in/api?id=Kasun-Abeywickrama&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
 ## 💰 You can help me by Donating
 ### <h3>Bank Details
-
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
