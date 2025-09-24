@@ -15,6 +15,7 @@ Here's a snapshot of who I am
 A passionate computer science student currently pursuing a BSc (Hons) in Computer Science at NSBM Green University. 
 
 
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kasun-Abeywickrama-721676249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Dev-Labs)
@@ -25,12 +26,16 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 
 <div align="center">
 
+
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kasun-Abeywickrama&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=9" alt="GitHub Trophies" />
 </p>
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
@@ -41,7 +46,7 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
         <img src="https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" />
       </td>
     </tr>
     <tr>
@@ -56,6 +61,8 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 
 
 ## 🎯 Core Expertise
+
+
 
 ### ReactJS Development
 - **Advanced Components:** Custom hooks, Higher-Order Components (HOCs), and compound components
@@ -83,16 +90,6 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 - **Real-time Features:** SignalR with React for live updates and notifications
 - **File Management:** Image/file upload handling from React to ASP.NET with cloud storage
 - **Error Handling:** Comprehensive error management across the full stack
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -154,40 +151,16 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 My Projects
 
 ### 1. Lansuwa.lk - Auction Management System
-- **Description:** A feature-rich full-stack platform enabling seamless interactions between sellers and buyers with real-time bidding functionality and role-based authentication.
-- **Tech Stack:** **React.js**, **ASP.NET Web API**, Tailwind CSS, SQL Server 
-- **ReactJS Highlights:**  
-  - **Component Architecture:** Built modular, reusable components with hooks for state management
-  - **Real-time Updates:** Implemented WebSocket integration for live auction bidding
-  - **Responsive Design:** Mobile-first approach using Tailwind CSS
-  - **State Management:** Used React Context API and custom hooks for global state
-- **ASP.NET Highlights:**
-  - **RESTful API Design:** Developed comprehensive Web API with proper HTTP status codes
-  - **Authentication & Authorization:** JWT-based authentication with role-based access control
-  - **Entity Framework:** Code-first approach with migrations and complex queries
-  - **Payment Integration:** Secure PayPal API integration with transaction logging
+- **Description:** A feature-rich platform enabling seamless interactions between sellers and buyers with real-time bidding functionality and role-based authentication.
+- **Tech Stack:** React.js, Tailwind CSS, ASP.NET core Web API, SQL Server 
 - **Key Features:**  
-  - **User Management:** Role-based authentication with OTP email verification  
-  - **Real-time Bidding:** WebSocket implementation for instant auction updates
-  - **Category & Product Management:** CRUD operations with image upload functionality
-  - **Payment Module:** Integrated PayPal checkout with transaction tracking
+  - **User Management:** Role-based authentication with OTP email verification.  
+  - **Bidding System:** Real-time auction updates and notifications.  
+  - **Category & Product Management:** Manage auction categories and items.  
+  - **Payment Module:** Integrated PayPal (Sandbox) checkout with transaction tracking.
 - **Frontend Repository:** [Lansuwa.lk Frontend](https://github.com/Dewmini-Mandis/auction-management-system-frontend)  
 - **Backend Repository:** [Lansuwa.lk Backend](https://github.com/Kasun-Abeywickrama/auction-management-system-backend) 
 
@@ -204,19 +177,8 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 ### 3. MindCare - Student Mental Health Support System
 - **Mobile App:** [MindCare Mobile](https://rb.gy/s877g3)
 - **Web App (Admin & Counselors):** [MindCare Web](https://tsdmindcare.netlify.app/)
-- **Overview:** A comprehensive full-stack system addressing mental health challenges, particularly depression, with early detection and intervention capabilities.
-- **Tech Stack:** **ReactJS**, Flutter, Django, MySQL, Figma
-- **ReactJS Web Application Highlights:**
-  - **Dashboard Development:** Created comprehensive admin and counselor dashboards with data visualization
-  - **Component-Based Architecture:** Built scalable React components for user management, session tracking, and reporting
-  - **API Integration:** Implemented Axios-based API calls with error handling and loading states
-  - **Responsive Design:** Ensured cross-device compatibility for healthcare professionals
-  - **State Management:** Used React hooks and context for managing user sessions and application state
-- **Key Features:**
-  - **Admin Panel:** User management, counselor assignment, and system analytics
-  - **Counselor Dashboard:** Session management, patient progress tracking, and resource management
-  - **Real-time Communication:** Chat functionality between counselors and students
-  - **Data Visualization:** Charts and graphs for mental health progress tracking
+- **Overview:** A comprehensive system addressing mental health challenges, particularly depression, with early detection and intervention.
+- **Tech Stack:** Flutter, ReactJS, Django, MySQL, Figma
 - **Collaborators:** A.H.K. Thiwanka, K.D.N. Mandis, A.A.H. Sithuruwan, and more.
 - **Frontend Repository (Web Application):** [Lansuwa.lk Frontend](https://github.com/Dewmini-Mandis/auction-management-system-frontend)  
 - **Frontend Repository (Mobile Application):** [TSD_Project_Front_End](https://github.com/Kasun-Abeywickrama/TSD_Project_Front_End.git)  
@@ -251,6 +213,3 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
