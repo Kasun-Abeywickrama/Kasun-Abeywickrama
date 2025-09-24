@@ -27,7 +27,7 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kasun-Abeywickrama&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kasun-Abeywickrama&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=9" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -37,35 +37,22 @@ A passionate computer science student currently pursuing a BSc (Hons) in Compute
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kasun-Abeywickrama&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Abeywickrama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kasun-Abeywickrama&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kasun-Abeywickrama&theme=tokyonight" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
 </div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 🎯 Core Expertise
